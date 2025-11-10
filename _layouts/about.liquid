@@ -61,8 +61,13 @@ layout: default
       <ul class="about-list">
         {% for item in page.education %}
           <li>
-            {% if item.degree %}<strong>{{ item.degree }}</strong>{% endif %}
-            {% if item.institution %}{% if item.degree %}, {% endif %}{{ item.institution }}{% endif %}
+            {% if item.degree -%}
+              <strong>{{ item.degree }}</strong>
+            {%- endif %}
+            {% if item.institution -%}
+              {%- if item.degree %}, {% endif -%}
+              {{- item.institution -}}
+            {%- endif %}
             {% if item.period %} ({{ item.period }}){% endif %}
             {% if item.description %}
               <div class="about-item-description">{{ item.description }}</div>
@@ -77,8 +82,13 @@ layout: default
       <ul class="about-list">
         {% for item in page.experience %}
           <li>
-            {% if item.role %}<strong>{{ item.role }}</strong>{% endif %}
-            {% if item.organization %}{% if item.role %}, {% endif %}{{ item.organization }}{% endif %}
+            {% if item.role -%}
+              <strong>{{ item.role }}</strong>
+            {%- endif %}
+            {% if item.organization -%}
+              {%- if item.role %}, {% endif -%}
+              {{- item.organization -}}
+            {%- endif %}
             {% if item.period %} ({{ item.period }}){% endif %}
             {% if item.description %}
               <div class="about-item-description">{{ item.description }}</div>
