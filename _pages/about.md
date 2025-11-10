@@ -26,25 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-education:
-  - degree: Ph.D. in Awesome Things
-    institution: University of Imagination
-    period: 2020-present
-    description: Researching cool topics in AI, with a focus on creative problem solving.
-  - degree: B.S. in Computer Science
-    institution: Example College
-    period: 2016-2020
-    description: Graduated magna cum laude. Led the robotics club and organized hackathons.
 
-experience:
-  - role: Research Scientist Intern
-    organization: Innovative Labs
-    period: summer 2024
-    description: Built prototypes for next-generation human-AI collaboration tools.
-  - role: Teaching Assistant
-    organization: Example College
-    period: 2017-2019
-    description: Assisted with introductory programming courses and mentored student projects.
+
 ---  
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
