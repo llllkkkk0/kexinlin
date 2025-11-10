@@ -62,6 +62,8 @@ Note that when you run it for the first time, it will download a docker image of
 
 Now, feel free to customize the theme however you like (don't forget to change the name!). Also, your changes should be automatically rendered in real-time (or maybe after a few seconds).
 
+While the container is running you can visit `http://localhost:8080/admin` to manage pages, posts, and data files through the bundled Jekyll Admin UI.
+
 > Beta: You can also use the slimmed docker image with a size below 100MBs and exact same functionality. Just use `docker compose -f docker-compose-slim.yml up`
 
 ### Build your own docker image
@@ -127,6 +129,8 @@ $ bundle exec jekyll serve
 ```
 
 To see the template running, open your browser and go to `http://localhost:4000`. You should see a copy of the theme's [demo website](https://alshedivat.github.io/al-folio/). Now, feel free to customize the theme however you like. After you are done, remember to **commit** your final changes.
+
+With the development server running locally you can also access the Jekyll Admin dashboard at `http://localhost:4000/admin` for a graphical editor.
 
 ## Deployment
 
