@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "<a href='mailto:klin5@wpi.edu'>klin5@wpi.edu</a>"
+
 
 profile:
   align: right
@@ -10,7 +11,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Washburn Shop 306</p>
-    <p>Worcester Polytechnic Institute</p>
     <p>100 Institute Road, Worcester, MA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at The Business School at Worcester Polytechnic Institute (WPI). I hold a Master's degree in Management Science and Engineering from the University of Science. My research interests include sustainability and big data analytics, with work published in journals such as Computers & Industrial Engineering and the Journal of Cleaner Production. My current research focuses on developing big data performance evaluation and benchmarking tools for blockchain technology and its applications.
+I am a PhD candidate at the Business School at Worcester Polytechnic Institute (WPI). I hold a Master's degree in Management Science and Engineering from the University of Science. My research interests include sustainability and big data analytics, with work published in journals such as Computers & Industrial Engineering and the Journal of Cleaner Production. My current research focuses on developing big data performance evaluation and benchmarking tools for blockchain technology and its applications.
