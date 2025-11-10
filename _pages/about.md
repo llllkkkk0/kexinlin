@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='mailto:klin5@wpi.edu'>klin5@wpi.edu</a>
 
-
 profile:
   align: right
   image: prof_pic.jpg
