@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Washburn Shop 306</p>
-    <p>10</p>
-    <p>Your City, State 12345</p>
+    <p>Worcester Polytechnic Institute</p>
+    <p>100 Institute Road, Worcester, MA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
