@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='mailto:klin5@wpi.edu'>klin5@wpi.edu</a>"
+subtitle: <a href='mailto:klin5@wpi.edu'>klin5@wpi.edu</a>
 
 
 profile:
