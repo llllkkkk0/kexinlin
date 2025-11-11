@@ -35,17 +35,11 @@
       year: 2024 - Present
       description:
         - Provide instructional support for analytics and operations courses across graduate and undergraduate programs.
-        - title: Teaching Page Metadata
-          contents:
-            - Title: teaching
-            - Description: Materials for courses you taught. Replace this text with your description.
-            - Navigation: nav: true, nav_order: 6
-        - title: Courses Supported
-          contents:
+        - courses assisted:
             - OIE 548 Performance Analytics (Graduate)
             - OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
             - OIE 552 Modeling and Optimizing Processes (Graduate)
-            
+
 - title: Honors and Awards
   type: time_table
   contents:
