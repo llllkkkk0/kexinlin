@@ -56,14 +56,4 @@ inspirehep_id: 1010907 # Inspire HEP author ID
 # url: https://www.alberteinstein.com/
 # this file contains the social media links and usernames of the author
 # this file contains the social media links and usernames of the author
-inspirehep_id: 1010907
-linkedin_username: kexin-lin-b6622a2b5
-orcid_id: 0009-0009-3713-2537
-scholar_userid: Pp72RqEAAAAJ
-custom_social:
-  - name: Google Scholar
-    icon: ai ai-google-scholar
-    url: https://scholar.google.com/citations?user=Pp72RqEAAAAJ&hl=en
-  - name: LinkedIn
-    icon: fab fa-linkedin
-    url: https://www.linkedin.com/in/kexin-lin-b6622a2b5
+
