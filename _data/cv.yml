@@ -35,7 +35,8 @@
       year: 2024 - Present
       description:
         - Provide instructional support for analytics and operations courses across graduate and undergraduate programs.
-        - courses assisted:
+        - title: Courses assisted
+          contents:
             - OIE 548 Performance Analytics (Graduate)
             - OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
             - OIE 552 Modeling and Optimizing Processes (Graduate)
