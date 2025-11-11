@@ -11,7 +11,7 @@ nav_order: 6
 
 **Worcester Polytechnic Institute, Business School**
 
-I support analytics and process-focused courses across the graduate and undergraduate curricula. Below is a snapshot of the offerings I have assisted with recently.
+I support analytics and process-focused courses across the graduate and undergraduate curricula.
 
 ### Spring 2024
 

@@ -2,96 +2,76 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Kexin Lin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th January 2000
     - name: Languages
-      value: English, German
+      value: English, Mandarin
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Worcester Polytechnic Institute, USA
+      year: January 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Business Administration.
+    - title: Master's Degree
+      institution: University of Science and Technology of China, China
+      year: September 2021 - December 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Management Science and Engineering.
+    - title: Bachelor's degree
+      institution: North China Electric Power University, China
+      year: September 2017 - June 2021
+      description:
+        - Management Science and Engineering & Engineering Cost.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant
+      institution: Worcester Polytechnic Institute
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Provide instructional support for analytics and operations courses across graduate and undergraduate programs.
+        - title: Teaching Page Metadata
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+            - Title: teaching
+            - Description: Materials for courses you taught. Replace this text with your description.
+            - Navigation: nav: true, nav_order: 6
+        - title: Courses Supported
+          contents:
+            - Spring 2024 – OIE 548 Performance Analytics (Graduate)
+            - Spring 2024 – OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
+            - Fall 2024 – OIE 552 Modeling and Optimizing Processes (Graduate)
+            - Spring 2025 – OIE 548 Performance Analytics (Graduate)
+            - Spring 2025 – OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
+            - Fall 2025 – OIE 552 Modeling and Optimizing Processes (Graduate)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Thesis of Anhui Province
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Chinese National Scholarship for Graduate Students
+    - year: 2021
+      items:
+        - Outstanding Graduate of Hebei Province
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Data envelopment analysis
+    - Performance evaluation
+    - Decision making
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Badminton
+    - Dancing
+    - Skiing
