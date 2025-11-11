@@ -42,13 +42,10 @@
             - Navigation: nav: true, nav_order: 6
         - title: Courses Supported
           contents:
-            - Spring 2024 – OIE 548 Performance Analytics (Graduate)
-            - Spring 2024 – OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
-            - Fall 2024 – OIE 552 Modeling and Optimizing Processes (Graduate)
-            - Spring 2025 – OIE 548 Performance Analytics (Graduate)
-            - Spring 2025 – OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
-            - Fall 2025 – OIE 552 Modeling and Optimizing Processes (Graduate)
-
+            - OIE 548 Performance Analytics (Graduate)
+            - OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
+            - OIE 552 Modeling and Optimizing Processes (Graduate)
+            
 - title: Honors and Awards
   type: time_table
   contents:
