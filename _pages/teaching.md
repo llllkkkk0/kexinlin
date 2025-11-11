@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I support as a teaching assistant at WPI.
+description:
 nav: true
 nav_order: 6
 ---
