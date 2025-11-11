@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:klin5@wpi.edu'>klin5@wpi.edu</a>
+subtitle: PhD candidate at the Business School
 
 profile:
   align: left
@@ -27,6 +27,14 @@ latest_posts:
 ---
 
 I am a PhD candidate at the Business School at Worcester Polytechnic Institute (WPI). I hold a Master's degree in Management Science and Engineering from the University of Science. My research interests include sustainability and big data analytics, with work published in journals such as Computers & Industrial Engineering and the Journal of Cleaner Production. My current research focuses on developing big data performance evaluation and benchmarking tools for blockchain technology and its applications.
+
+### Research Interests
+
+- Data envelopment analysis
+- Performance evaluation
+- Decision making
+- Blockchain
+- Operations research
 
 ### Education
 
