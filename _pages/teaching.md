@@ -2,11 +2,31 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I support as a teaching assistant at WPI.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+**Worcester Polytechnic Institute, Business School**
+
+I support analytics and process-focused courses across the graduate and undergraduate curricula. Below is a snapshot of the offerings I have assisted with recently.
+
+### Spring 2024
+
+- `OIE 548` Performance Analytics (Graduate)
+- `OIE 4410` Case Studies in Industrial Engineering (Undergraduate)
+
+### Fall 2024
+
+- `OIE 552` Modeling and Optimizing Processes (Graduate)
+
+### Spring 2025
+
+- `OIE 548` Performance Analytics (Graduate)
+- `OIE 4410` Case Studies in Industrial Engineering (Undergraduate)
+
+### Fall 2025
+
+- `OIE 552` Modeling and Optimizing Processes (Graduate)
