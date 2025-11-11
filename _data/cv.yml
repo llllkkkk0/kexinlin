@@ -41,6 +41,15 @@
             - OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
             - OIE 552 Modeling and Optimizing Processes (Graduate)
 
+- title: Service
+  type: time_table
+  contents:
+    - title: Peer Reviewer
+      institution: Ecological Indicators
+      year: 2023 - Present
+      description:
+        - Independent reviewer with five completed manuscript evaluations.
+
 - title: Honors and Awards
   type: time_table
   contents:
