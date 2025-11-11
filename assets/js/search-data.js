@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses I support as a teaching assistant at WPI.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/kexinlin/teaching/";
