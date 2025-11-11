@@ -69,11 +69,11 @@
       "endDate": "2021-06-30"
     }
   ],
-  "volunteer": [
+  "services": [
     {
       "organization": "Ecological Indicators",
       "position": "Peer Reviewer",
-      "startDate": "2023-01-01",
+      "startDate": "2024",
       "endDate": "Present",
       "summary": "Independent reviewer with five completed manuscript evaluations."
     }
@@ -81,21 +81,20 @@
   "awards": [
     {
       "title": "Outstanding Thesis of Anhui Province",
-      "date": "2024-01-01"
+      "date": "2024"
     },
     {
       "title": "Chinese National Scholarship for Graduate Students",
-      "date": "2023-01-01"
+      "date": "2023"
     },
     {
       "title": "Outstanding Graduate of Hebei Province",
-      "date": "2021-06-01"
+      "date": "2021"
     }
   ],
-  "skills": [
+  "Research Interests": [
     {
-      "name": "Research Interests",
-      "keywords": ["Data envelopment analysis", "Performance evaluation", "Decision making"]
+      "keywords": ["Data envelopment analysis", "Performance evaluation", "Decision making","Blockchain"]
     }
   ],
   "languages": [
@@ -110,7 +109,6 @@
   ],
   "interests": [
     {
-      "name": "Interests",
       "keywords": ["Badminton", "Dancing", "Skiing"]
     }
   ]
