@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 <div class="lead">
-  <p>I am a PhD candidate at the Business School at Worcester Polytechnic Institute (WPI). I hold a Master’s degree in Management Science and Engineering from the University of Science. My research interests include sustainability and big data analytics, with work published in journals such as <em>Computers &amp; Industrial Engineering</em> and the <em>Journal of Cleaner Production</em>. My current research focuses on developing big data performance evaluation and benchmarking tools for blockchain technology and its applications.</p>
+  <p>I am a PhD candidate at the Business School at Worcester Polytechnic Institute (WPI). I hold a Master’s degree in Management Science and Engineering from the University of Science and Technology of China. My research interests include sustainability and big data analytics, with work published in journals such as <em>Computers &amp; Industrial Engineering</em> and the <em>Journal of Cleaner Production</em>. My current research focuses on developing big data performance evaluation and benchmarking tools for blockchain technology and its applications.</p>
 </div>
 
 ---
