@@ -40,8 +40,17 @@ latest_posts:
 - Blockchain
 - Operations research
 
----
+--
+### Teaching interests
 
+- Operations management
+- Business analytics
+- Operations research
+- Performance analytics and benchmarking
+- Process modeling and optimization
+- Sustainability and energy systems analytics
+
+---
 ### Education
 
 - **Ph.D. in Business Administration**, Worcester Polytechnic Institute, USA (Jan 2024 – Present)
