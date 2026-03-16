@@ -41,6 +41,7 @@ latest_posts:
 - Operations research
 
 ---
+
 ### Teaching interests
 
 - Operations management
@@ -51,6 +52,7 @@ latest_posts:
 - Sustainability and energy systems analytics
 
 ---
+
 ### Education
 
 - **Ph.D. in Business Administration**, Worcester Polytechnic Institute, USA (Jan 2024 – Present)
