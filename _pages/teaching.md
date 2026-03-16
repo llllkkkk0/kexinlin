@@ -25,7 +25,7 @@ I support analytics and process-focused courses across the graduate and undergra
 ### Spring 2025
 
 - `OIE 548` Performance Analytics (Graduate), responsibilities: grading, office hours, project guidance
-- `OIE 4410` Case Studies in Industrial Engineering (Undergraduate), responsibilities: grading, office hours, project guidance, and guest lecture on Data Envelopment Analysis (DEA). check this page
+- `OIE 4410` Case Studies in Industrial Engineering (Undergraduate), responsibilities: grading, office hours, project guidance, and guest lecture on Data Envelopment Analysis (DEA)
 
 ### Fall 2025
 

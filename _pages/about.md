@@ -40,7 +40,7 @@ latest_posts:
 - Blockchain
 - Operations research
 
---
+---
 ### Teaching interests
 
 - Operations management
@@ -55,4 +55,4 @@ latest_posts:
 
 - **Ph.D. in Business Administration**, Worcester Polytechnic Institute, USA (Jan 2024 – Present)
 - **M.S. in Management Science and Engineering**, University of Science and Technology of China, China (Sep 2021 – Dec 2023)
-- **B.S. in Management Science and Engineering & Engineering Cost**, North China Electric Power University, China (Sep 2017 – Jun 2021) check this page
+- **B.S. in Management Science and Engineering & Engineering Cost**, North China Electric Power University, China (Sep 2017 – Jun 2021)
