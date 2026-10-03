@@ -7,11 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Assistant
+## Teaching Assistant and Instructor for Selected Lessons
 
 **Worcester Polytechnic Institute, Business School**
 
-I support analytics and process-focused courses across the graduate and undergraduate curricula.
+I prepare instructional materials and deliver selected lessons on DEA and machine learning. I support undergraduate and graduate students through office hours, project guidance, grading, and feedback on analytical reasoning and interpretation of results. In OIE 552, I guide students in problem formulation, Excel Solver implementation, scenario analysis, and interpretation of optimization results.
+
+**Recent instructional design:** I am developing and adapting an Excel-based regression and K-nearest neighbors (KNN) module that combines conceptual explanations, guided demonstrations, hands-on exercises, and a small independent project. The module emphasizes prediction, interpretation, and analytical support for business decisions.
 
 ### Spring 2024
 

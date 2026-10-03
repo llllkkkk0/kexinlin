@@ -99,6 +99,8 @@ layout: default
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
+                {% when 'service' %}
+                  {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
@@ -110,6 +112,8 @@ layout: default
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}
+                  {% include resume/interests.liquid %}
+                {% when 'research interests' %}
                   {% include resume/interests.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}

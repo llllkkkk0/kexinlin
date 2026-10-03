@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kexin (Cathy) Lin",
-    "label": "PhD candidate",
+    "label": "Ph.D. Candidate",
     "image": "",
     "email": "klin5@wpi.edu",
     "phone": "(774) 701-4571",
     "url": "https://llllkkkk0.github.io/kexinlin/",
-    "summary": "PhD candidate at the Business School at Worcester Polytechnic Institute.",
+    "summary": "Ph.D. Candidate in Business Administration at the Business School at Worcester Polytechnic Institute. My research integrates data envelopment analysis (DEA), mathematical optimization, and machine learning for performance evaluation, benchmarking, and decision support, with work on performance-oriented clustering and recommendation systems for digital platforms and empirical modeling for sustainable operations, supply chains, and urban energy systems.",
     "location": {
       "address": "100 Institute Rd",
       "postalCode": "MA 01609",
@@ -31,15 +31,16 @@
   "work": [
     {
       "name": "The Business School, Worcester Polytechnic Institute",
-      "position": "Teaching Assistant",
+      "position": "Teaching Assistant and Instructor for Selected Lessons",
       "url": "https://www.wpi.edu/people/doctoral-student/klin5",
       "startDate": "Jan 2024",
       "endDate": "Present",
-      "summary": "Provide instructional support for analytics and operations courses across graduate and undergraduate programs.",
+      "summary": "Prepare instructional materials and deliver selected lessons on DEA and machine learning. Support undergraduate and graduate students through office hours, project guidance, grading, and feedback on analytical reasoning and interpretation of results.",
       "highlights": [
-        "OIE 548 Performance Analytics (Graduate)",
-        "OIE 4410 Case Studies in Industrial Engineering (Undergraduate)",
-        "OIE 552 Modeling and Optimizing Processes (Graduate)"
+        "OIE 548 Performance Analytics (Graduate). Support performance-analytics coursework through grading, office hours, and project guidance.",
+        "OIE 4410 Case Studies in Industrial Engineering (Undergraduate). Guest instruction on DEA; case-study project guidance, office hours, and assessment.",
+        "OIE 552 Modeling and Optimizing Processes (Graduate). Guide students in problem formulation, Excel Solver implementation, scenario analysis, and interpretation of optimization results.",
+        "Recent instructional design: Developing and adapting an Excel-based regression and K-nearest neighbors (KNN) module that combines conceptual explanations, guided demonstrations, hands-on exercises, and a small independent project. Emphasizes prediction, interpretation, and analytical support for business decisions."
       ]
     }
   ],
@@ -47,15 +48,16 @@
     {
       "institution": "Worcester Polytechnic Institute",
       "location": "Worcester, MA, USA",
-      "studyType": "Ph.D.",
+      "studyType": "Ph.D. Candidate",
       "area": "Business Administration",
       "startDate": "Jan 2024",
-      "endDate": "Present"
+      "endDate": "Present",
+      "courses": ["Expected completion: 2027"]
     },
     {
       "institution": "University of Science and Technology of China",
       "location": "Hefei, Anhui, China",
-      "studyType": "M.S.",
+      "studyType": "M.Sc.",
       "area": "Management Science and Engineering",
       "startDate": "Sep 2021",
       "endDate": "Dec 2023"
@@ -63,22 +65,31 @@
     {
       "institution": "North China Electric Power University",
       "location": "Beijing, China",
-      "studyType": "B.S.",
-      "area": "Management Science and Engineering & Engineering Cost",
-      "startDate": "Sep 2021",
+      "studyType": "B.Eng.",
+      "area": "Engineering Cost",
+      "startDate": "Sep 2017",
       "endDate": "Jun 2021"
     }
   ],
   "service": [
     {
+      "organization": "Annals of Operations Research",
+      "position": "Ad Hoc Journal Reviewer"
+    },
+    {
+      "organization": "Journal of the Operational Research Society",
+      "position": "Ad Hoc Journal Reviewer"
+    },
+    {
       "organization": "Ecological Indicators",
-      "position": "Peer Reviewer",
-      "startDate": "2024",
-      "endDate": "Present",
-      "summary": "Independent reviewer with five completed manuscript evaluations."
+      "position": "Ad Hoc Journal Reviewer"
     }
   ],
   "awards": [
+    {
+      "title": "Conference Travel Grant, Worcester Polytechnic Institute",
+      "date": "2025"
+    },
     {
       "title": "Outstanding Thesis of Anhui Province",
       "date": "2024"
@@ -94,7 +105,7 @@
   ],
   "skills": [
     {
-      "keywords": ["STATA", "R", "LaTeX", "Python", "MATLAB"]
+      "keywords": ["STATA", "R", "LaTeX", "Python", "MATLAB", "Excel", "Solver"]
     }
   ],
   "languages": [
@@ -109,7 +120,12 @@
   ],
   "research interests": [
     {
-      "keywords": ["Data envelopment analysis", "Performance evaluation", "Decision making", "Blockchain"]
+      "keywords": [
+        "Data envelopment analysis (DEA), performance evaluation, and benchmarking",
+        "Machine learning and mathematical optimization for performance-driven decision support",
+        "Performance-oriented clustering and recommendation systems for digital platforms",
+        "Empirical modeling for sustainable operations, supply chains, and urban energy systems"
+      ]
     }
   ]
 }

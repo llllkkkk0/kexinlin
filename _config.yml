@@ -173,6 +173,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - Codex_Academic_Website_Content_Update.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -633,6 +634,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
+  - service
   - education
   - publications
   - projects
@@ -642,4 +644,5 @@ jsonresume:
   - skills
   - languages
   - interests
+  - research interests
   - references

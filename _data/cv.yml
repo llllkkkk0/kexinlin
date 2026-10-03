@@ -11,48 +11,52 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. Candidate
       institution: Worcester Polytechnic Institute, USA
-      year: January 2024
+      year: January 2024 - Present
       description:
-        - Business Administration.
-    - title: Master's Degree
+        - Business Administration; expected completion in 2027.
+    - title: M.Sc.
       institution: University of Science and Technology of China, China
       year: September 2021 - December 2023
       description:
         - Management Science and Engineering.
-    - title: Bachelor's degree
+    - title: B.Eng.
       institution: North China Electric Power University, China
       year: September 2017 - June 2021
       description:
-        - Management Science and Engineering & Engineering Cost.
+        - Engineering Cost.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Teaching Assistant
+    - title: Teaching Assistant and Instructor for Selected Lessons
       institution: Worcester Polytechnic Institute
       year: 2024 - Present
       description:
-        - Provide instructional support for analytics and operations courses across graduate and undergraduate programs.
+        - Prepare instructional materials and deliver selected lessons on DEA and machine learning. Support undergraduate and graduate students through office hours, project guidance, grading, and feedback on analytical reasoning and interpretation of results.
         - title: Courses assisted
           contents:
-            - OIE 548 Performance Analytics (Graduate)
-            - OIE 4410 Case Studies in Industrial Engineering (Undergraduate)
-            - OIE 552 Modeling and Optimizing Processes (Graduate)
+            - OIE 548 Performance Analytics (Graduate). Support performance-analytics coursework through grading, office hours, and project guidance.
+            - OIE 4410 Case Studies in Industrial Engineering (Undergraduate). Guest instruction on DEA; case-study project guidance, office hours, and assessment.
+            - OIE 552 Modeling and Optimizing Processes (Graduate). Guide students in problem formulation, Excel Solver implementation, scenario analysis, and interpretation of optimization results.
+        - "Recent instructional design: Developing and adapting an Excel-based regression and K-nearest neighbors (KNN) module that combines conceptual explanations, guided demonstrations, hands-on exercises, and a small independent project. Emphasizes prediction, interpretation, and analytical support for business decisions."
 
 - title: Service
   type: time_table
   contents:
-    - title: Peer Reviewer
-      Journal: Ecological Indicators
-      year: 2023 - Present
+    - title: Ad Hoc Journal Reviewer
       description:
-        - Independent reviewer with five completed manuscript evaluations.
+        - Annals of Operations Research
+        - Journal of the Operational Research Society
+        - Ecological Indicators
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Conference Travel Grant, Worcester Polytechnic Institute
     - year: 2024
       items:
         - Outstanding Thesis of Anhui Province
@@ -66,9 +70,10 @@
 - title: Academic Interests
   type: list
   contents:
-    - Data envelopment analysis
-    - Performance evaluation
-    - Decision making
+    - Data envelopment analysis (DEA), performance evaluation, and benchmarking
+    - Machine learning and mathematical optimization for performance-driven decision support
+    - Performance-oriented clustering and recommendation systems for digital platforms
+    - Empirical modeling for sustainable operations, supply chains, and urban energy systems
 
 - title: Other Interests
   type: list
